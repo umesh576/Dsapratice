@@ -166,6 +166,5 @@ int main()
     ll.pop_back();
 
     ll.display();
-// hey hi
     return 0;
 }
